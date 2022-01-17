@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-17T17:28:34.280Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.58" etag="vlV4jJlmnyzGmrDAECkh" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-17T17:29:10.354Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.58" etag="HN_W0SUpcczIcFnJwLwS" version="14.7.0" type="github">
   <diagram id="sgW8315THJMmDeOMLILc" name="Page-1">
     <mxGraphModel dx="998" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
           <mxGeometry x="320" y="400" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Qs5P2ZCcg5z2vbFwHX0I-17" value="Name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="100" width="120" height="80" as="geometry" />
+          <mxGeometry x="1040" y="360" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Qs5P2ZCcg5z2vbFwHX0I-19" value="Quotes" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="440" width="160" height="120" as="geometry" />
@@ -72,7 +72,7 @@
           <mxGeometry x="715" y="260" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Qs5P2ZCcg5z2vbFwHX0I-30" value="Date of Birth" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="100" width="120" height="80" as="geometry" />
+          <mxGeometry x="1240" y="360" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Qs5P2ZCcg5z2vbFwHX0I-31" value="Roles" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1130" y="240" width="150" height="90" as="geometry" />
